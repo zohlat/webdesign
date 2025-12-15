@@ -98,7 +98,7 @@ window.SITE_DATA = {
   board: {
     executiveBoard: [
       {
-        name: 'Dr. John Smith',
+        name: 'Dr. ZP Smith',
         title: 'President',
         institution: "Children's Hospital Boston",
         bio: 'Board-certified pediatric emergency medicine physician with expertise in POCUS education and research.',
