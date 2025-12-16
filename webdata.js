@@ -1,10 +1,10 @@
 // Pediatric POCUS Society Website Data
-// Last Updated: 2025-12-15
+// Last Updated: 2025-12-16
 // Version: 1.0.0
 
 window.SITE_DATA = {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-15",
+  "lastUpdated": "2025-12-16",
   "research": {
     "currentStudies": [
       {
@@ -520,7 +520,27 @@ window.SITE_DATA = {
         ],
         "requirements": [
           "two"
-        ]
+        ],
+        "rotations": [
+          "Pediatric Emergency Department",
+          "Pediatric ICU",
+          "Neonatology",
+          "Cardiology",
+          "Radiology"
+        ],
+        "ultrasound_faculty": [
+          "Pediatric Emergency Department",
+          "Pediatric ICU",
+          "Neonatology",
+          "Cardiology",
+          "Radiology"
+        ],
+        "application_deadline_date": "2025-12-24",
+        "num_positions_per_year": "4",
+        "salary": "45000",
+        "fellowship_length": "2 month",
+        "institution": "test",
+        "name": "flop"
       }
     ]
   },
