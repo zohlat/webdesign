@@ -220,7 +220,7 @@ window.SITE_DATA = {
         equipment_deployed: '25 units',
         training_sessions: 120,
         objectives: [
-          'Train 500 local healthcare workers in POCUS techniques',
+          'Train 50 local healthcare workers in POCUS techniques',
           'Deploy mobile ultrasound units to 30 rural health centers',
           'Improve pediatric diagnostic capabilities in underserved regions',
           'Establish sustainable local training programs'
