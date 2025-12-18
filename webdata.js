@@ -69,9 +69,9 @@ window.SITE_DATA = {
     "projects": [
       {
         "title": "National Pediatric POCUS Registry",
-        "status": "Active",
+        "status": "",
         "principal_investigator": "Dr. Robert Wilson",
-        "current_phase": "Data Collection",
+        "current_phase": "",
         "participants": 1250,
         "publications": 8,
         "description": "Creating a comprehensive national registry to track POCUS utilization, outcomes, and best practices across pediatric emergency departments.",
