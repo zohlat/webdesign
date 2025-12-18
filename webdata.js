@@ -438,6 +438,7 @@ window.SITE_DATA = {
           "description": "Successful gathering of pediatric ultrasound experts and practitioners.",
           "image_url": "https://images.pexels.com/photos/1181519/pexels-photo-1181519.jpeg"
         },
+        "3": {
         "registration_url": "https://chatgpt.com/",
         "title": "Test Event",
         "event_date": "2026-01-03",
