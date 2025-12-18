@@ -96,11 +96,12 @@ window.SITE_DATA = {
 
   // Board Members Data
   board: {
-    executiveBoard: [
+    boardMembers: [
       {
         name: 'Dr. John Smith',
         title: 'President',
         institution: "Children's Hospital Boston",
+        specialty: 'Pediatric Emergency Medicine',
         bio: 'Board-certified pediatric emergency medicine physician with expertise in POCUS education and research.',
         image_url: 'https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg',
         email: 'president@pediatricpocus.org'
@@ -109,6 +110,7 @@ window.SITE_DATA = {
         name: 'Dr. Sarah Johnson',
         title: 'Vice President',
         institution: 'Stanford Children\'s Hospital',
+        specialty: 'Pediatric Cardiac Ultrasound',
         bio: 'Leader in pediatric cardiac ultrasound and point-of-care imaging innovation.',
         image_url: 'https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg',
         email: 'vp@pediatricpocus.org'
@@ -117,6 +119,7 @@ window.SITE_DATA = {
         name: 'Dr. Michael Chen',
         title: 'Secretary',
         institution: 'UCLA Medical Center',
+        specialty: 'Pediatric Pulmonology',
         bio: 'Specialist in pediatric lung ultrasound and respiratory applications of POCUS.',
         image_url: 'https://images.pexels.com/photos/5452201/pexels-photo-5452201.jpeg',
         email: 'secretary@pediatricpocus.org'
@@ -125,12 +128,11 @@ window.SITE_DATA = {
         name: 'Dr. Emily Davis',
         title: 'Treasurer',
         institution: 'Children\'s Hospital of Philadelphia',
+        specialty: 'Medical Education',
         bio: 'Expert in POCUS curriculum development and medical education.',
         image_url: 'https://images.pexels.com/photos/5452224/pexels-photo-5452224.jpeg',
         email: 'treasurer@pediatricpocus.org'
-      }
-    ],
-    boardMembers: [
+      },
       {
         name: 'Dr. Robert Wilson',
         institution: 'Texas Children\'s Hospital',
@@ -414,6 +416,7 @@ window.SITE_DATA = {
         image_url: 'https://images.pexels.com/photos/1181519/pexels-photo-1181519.jpeg'
       }
     ],
+    pastEventsDriveUrl: 'https://drive.google.com/drive/folders/example',
     papers: [
       {
         title: 'Best Practices in Pediatric Point-of-Care Ultrasound',
@@ -437,6 +440,7 @@ window.SITE_DATA = {
         pdf_url: 'https://example.com/papers/medical-education.pdf'
       }
     ],
+    papersDriveUrl: 'https://drive.google.com/drive/folders/example',
     resources: {
       url: 'https://example.com/resources'
     },
