@@ -55,7 +55,7 @@ window.SITE_DATA = {
       },
       {
         "title": "POCUS Training Outcomes Study",
-        "recruitment_status": "recruiting",
+        "recruitment_status": "completed",
         "principal_investigator": "Dr. Emily Davis",
         "institution": "UCLA Medical Center",
         "description": "Assessing competency acquisition and retention following standardized POCUS training programs.",
