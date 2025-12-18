@@ -11,7 +11,7 @@ window.SITE_DATA = {
     title: 'P2 Network',
     subtitle: 'Advancing Pediatric Point-of-Care Ultrasound',
     description: 'To advance pediatric point-of-care ultrasound through comprehensive education, innovative research, and global collaboration, improving healthcare outcomes for children worldwide.',
-    heroImageUrl: 'https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg'
+    heroImageUrl: 'https://images.pexels.com/photos/259526/pexels-photo-259526.jpeg'
   },
 
   // Research Data
