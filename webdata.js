@@ -1,10 +1,10 @@
 // Pediatric POCUS Society Website Data
-// Last Updated: 2025-12-16
+// Last Updated: 2025-12-18
 // Version: 1.0.0
 
 window.SITE_DATA = {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-16",
+  "lastUpdated": "2025-12-18",
   "research": {
     "currentStudies": [
       {
@@ -415,6 +415,34 @@ window.SITE_DATA = {
         "location": "Los Angeles, CA",
         "description": "Successful gathering of pediatric ultrasound experts and practitioners.",
         "image_url": "https://images.pexels.com/photos/1181519/pexels-photo-1181519.jpeg"
+      },
+      {
+        "0": {
+          "title": "Pediatric POCUS Conference 2024",
+          "event_date": "2024-06-15",
+          "location": "Chicago, IL",
+          "description": "Our annual conference brought together over 500 practitioners from around the world.",
+          "image_url": "https://images.pexels.com/photos/1181406/pexels-photo-1181406.jpeg"
+        },
+        "1": {
+          "title": "Regional POCUS Training 2024",
+          "event_date": "2024-03-22",
+          "location": "New York, NY",
+          "description": "Regional training session focusing on practical applications of POCUS in pediatric settings.",
+          "image_url": "https://images.pexels.com/photos/1181346/pexels-photo-1181346.jpeg"
+        },
+        "2": {
+          "title": "Annual Conference 2023",
+          "event_date": "2023-06-10",
+          "location": "Los Angeles, CA",
+          "description": "Successful gathering of pediatric ultrasound experts and practitioners.",
+          "image_url": "https://images.pexels.com/photos/1181519/pexels-photo-1181519.jpeg"
+        },
+        "registration_url": "https://chatgpt.com/",
+        "title": "Test Event",
+        "event_date": "2026-01-03",
+        "location": "World",
+        "description": "Test"
       }
     ],
     "papers": [
