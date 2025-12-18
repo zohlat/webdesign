@@ -8,10 +8,10 @@ window.SITE_DATA = {
 
   // Hero Section
   hero: {
-    title: 'P2 Network',
-    subtitle: 'Advancing Pediatric Point-of-Care Ultrasound',
-    description: 'To advance pediatric point-of-care ultrasound through comprehensive education, innovative research, and global collaboration, improving healthcare outcomes for children worldwide.',
-    heroImageUrl: 'https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg'
+    "title": "P2 Network",
+    "subtitle": "Advancing Point-of-Care Ultrasound in Pediatric Medicine",
+    "description": "Leading the way in pediatric emergency ultrasound education, research, and global health initiatives.",
+    "heroImageUrl": "https://images.pexels.com/photos/259526/pexels-photo-259526.jpeg"
   },
 
   // Upcoming Events
