@@ -6,6 +6,14 @@ window.SITE_DATA = {
   version: '1.0.0',
   lastUpdated: '2024-12-15',
 
+  // Hero Section
+  hero: {
+    title: 'P2 Network',
+    subtitle: 'Advancing Pediatric Point-of-Care Ultrasound',
+    description: 'To advance pediatric point-of-care ultrasound through comprehensive education, innovative research, and global collaboration, improving healthcare outcomes for children worldwide.',
+    heroImageUrl: 'https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg'
+  },
+
   // Research Data
   research: {
     currentStudies: [
@@ -104,7 +112,8 @@ window.SITE_DATA = {
         specialty: 'Pediatric Emergency Medicine',
         bio: 'Board-certified pediatric emergency medicine physician with expertise in POCUS education and research.',
         image_url: 'https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg',
-        email: 'president@pediatricpocus.org'
+        email: 'president@pediatricpocus.org',
+        linkedin_url: 'https://linkedin.com/in/example'
       },
       {
         name: 'Dr. Sarah Johnson',
@@ -113,7 +122,8 @@ window.SITE_DATA = {
         specialty: 'Pediatric Cardiac Ultrasound',
         bio: 'Leader in pediatric cardiac ultrasound and point-of-care imaging innovation.',
         image_url: 'https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg',
-        email: 'vp@pediatricpocus.org'
+        email: 'vp@pediatricpocus.org',
+        linkedin_url: 'https://linkedin.com/in/example'
       },
       {
         name: 'Dr. Michael Chen',
@@ -131,7 +141,8 @@ window.SITE_DATA = {
         specialty: 'Medical Education',
         bio: 'Expert in POCUS curriculum development and medical education.',
         image_url: 'https://images.pexels.com/photos/5452224/pexels-photo-5452224.jpeg',
-        email: 'treasurer@pediatricpocus.org'
+        email: 'treasurer@pediatricpocus.org',
+        linkedin_url: 'https://linkedin.com/in/example'
       },
       {
         name: 'Dr. Robert Wilson',
@@ -143,7 +154,8 @@ window.SITE_DATA = {
         name: 'Dr. Maria Garcia',
         institution: 'Children\'s Hospital Los Angeles',
         specialty: 'Pediatric Critical Care',
-        image_url: 'https://images.pexels.com/photos/5452268/pexels-photo-5452268.jpeg'
+        image_url: 'https://images.pexels.com/photos/5452268/pexels-photo-5452268.jpeg',
+        linkedin_url: 'https://linkedin.com/in/example'
       },
       {
         name: 'Dr. James Anderson',
