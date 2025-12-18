@@ -441,6 +441,33 @@ window.SITE_DATA = {
         "location": "Virtual Event",
         "description": "Virtual summit dedicated to innovative teaching methods and curriculum development in pediatric POCUS.",
         "registration_url": "https://example.com/register"
+      },
+      {
+        "0": {
+          "title": "Annual Pediatric POCUS Conference 2025",
+          "event_date": "2025-06-15",
+          "location": "Boston, MA",
+          "description": "Join us for our flagship annual conference featuring hands-on workshops, expert panels, and networking opportunities.",
+          "registration_url": "https://example.com/register"
+        },
+        "1": {
+          "title": "Advanced Cardiac POCUS Workshop",
+          "event_date": "2025-08-20",
+          "location": "San Francisco, CA",
+          "description": "Intensive two-day workshop focused on advanced cardiac ultrasound techniques in pediatric emergency medicine.",
+          "registration_url": "https://example.com/register"
+        },
+        "2": {
+          "title": "POCUS Education Summit",
+          "event_date": "2025-10-10",
+          "location": "Virtual Event",
+          "description": "Virtual summit dedicated to innovative teaching methods and curriculum development in pediatric POCUS.",
+          "registration_url": "https://example.com/register"
+        },
+        "title": "Test Two",
+        "event_date": "2025-12-18",
+        "location": "World is",
+        "description": "Seconds"
       }
     ],
     "pastEvents": [
