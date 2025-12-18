@@ -8,7 +8,7 @@ window.SITE_DATA = {
   "hero": {
     "title": "P2 Network",
     "subtitle": "Advancing Point-of-Care Ultrasound in Pediatric Medicine",
-    "description": "Leading the way in pediatric emergency ultrasound education, research, and global health initiatives.",
+    "description": "Leading the way in pediatric emergency ultrasound education, research, and global health initiatives",
     "heroImageUrl": "https://images.pexels.com/photos/259526/pexels-photo-259526.jpeg"
   },
   "research": {
@@ -21,7 +21,7 @@ window.SITE_DATA = {
         "study_type": "Prospective Observational",
         "current_enrollment": 245,
         "enrollment_target": 500,
-        "description": "A comprehensive multi-center study evaluating the accuracy and clinical impact of point-of-care cardiac ultrasound in pediatric emergency settings.",
+        "description": "A comprehensive multi-center study evaluating the accuracy and clinical impact of point-of-care cardiac ultrasound in pediatric emergency settings",
         "objectives": [
           "Determine diagnostic accuracy of POCUS for cardiac pathology",
           "Assess impact on clinical decision-making",
