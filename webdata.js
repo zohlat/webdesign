@@ -6,9 +6,9 @@ window.SITE_DATA = {
   "version": "1.0.0",
   "lastUpdated": "2025-12-19",
   "hero": {
-    "title": "P2 Network",
-    "subtitle": "Advancing Point-of-Care Ultrasound in Pediatric Medicine",
-    "description": "Leading the way in pediatric emergency ultrasound education, research, and global health initiatives.",
+    "title": "P2 Networkss",
+    "subtitle": "Advancing Point-of-Care Ultrasound in Pediatric Medicines",
+    "description": "Leading the way in pediatric emergency ultrasound education, research, and global health initiatives.s",
     "heroImageUrl": "https://images.pexels.com/photos/259526/pexels-photo-259526.jpeg"
   },
   "upcomingEvents": [
@@ -35,37 +35,37 @@ window.SITE_DATA = {
     }
   ],
   "research": {
-    "oversightCommitteeUrl": "https://example.com/oversight-committee",
+    "oversightCommitteeUrl": "https://example.com/oversight-committees",
     "currentStudies": [
       {
-        "title": "Multi-Center Pediatric Cardiac POCUS Study",
-        "status": "Active",
-        "principal_investigator": "Dr. Sarah Johnson",
-        "institution": "Children's Hospital Boston",
-        "study_type": "Prospective Observational",
-        "description": "A comprehensive multi-center study evaluating the accuracy and clinical impact of point-of-care cardiac ultrasound in pediatric emergency settings.",
+        "title": "Multi-Center Pediatric Cardiac POCUS Studys",
+        "status": "Actives",
+        "principal_investigator": "Dr. Sarah Johnsons",
+        "institution": "Children's Hospital Bostons",
+        "study_type": "Prospective Observationals",
+        "description": "A comprehensive multi-center study evaluating the accuracy and clinical impact of point-of-care cardiac ultrasound in pediatric emergency settings.s",
         "objectives": [
-          "Determine diagnostic accuracy of POCUS for cardiac pathology",
-          "Assess impact on clinical decision-making",
-          "Evaluate learning curves for pediatric practitioners",
-          "Develop standardized protocols"
+          "Determine diagnostic accuracy of POCUS for cardiac pathologys",
+          "Assess impact on clinical decision-makings",
+          "Evaluate learning curves for pediatric practitionerss",
+          "Develop standardized protocolss"
         ],
         "start_date": "2023-01-15",
         "end_date": null,
-        "study_url": "https://example.com/cardiac-study",
-        "contact_email": "cardiac.study@example.com"
+        "study_url": "https://example.com/cardiac-studys",
+        "contact_email": "cardiac.study@example.coms"
       }
     ],
     "recruitingStudies": [
       {
-        "title": "Pediatric Lung Ultrasound in Pneumonia",
-        "recruitment_status": "recruiting",
-        "principal_investigator": "Dr. Michael Chen",
-        "institution": "Stanford Children's Hospital",
-        "description": "Evaluating the diagnostic performance of lung ultrasound compared to chest radiography in pediatric pneumonia cases.",
-        "eligibility_criteria": "Children aged 1 month to 18 years presenting with suspected pneumonia",
-        "study_url": "https://example.com/lung-study",
-        "contact_email": "lung.study@example.com"
+        "title": "Pediatric Lung Ultrasound in Pneumonias",
+        "recruitment_status": "recruitings",
+        "principal_investigator": "Dr. Michael Chens",
+        "institution": "Stanford Children's Hospitals",
+        "description": "Evaluating the diagnostic performance of lung ultrasound compared to chest radiography in pediatric pneumonia cases.s",
+        "eligibility_criteria": "Children aged 1 month to 18 years presenting with suspected pneumonias",
+        "study_url": "https://example.com/lung-studys",
+        "contact_email": "lung.study@example.coms"
       },
       {
         "title": "POCUS Training Outcomes Study",
@@ -80,28 +80,28 @@ window.SITE_DATA = {
     ],
     "projects": [
       {
-        "title": "National Pediatric POCUS Registry",
-        "status": "Active",
-        "principal_investigator": "Dr. Robert Wilson",
-        "current_phase": "Data Collection",
-        "description": "Creating a comprehensive national registry to track POCUS utilization, outcomes, and best practices across pediatric emergency departments.",
+        "title": "National Pediatric POCUS Registrys",
+        "status": "Actives",
+        "principal_investigator": "Dr. Robert Wilsons",
+        "current_phase": "Data Collections",
+        "description": "Creating a comprehensive national registry to track POCUS utilization, outcomes, and best practices across pediatric emergency departments.s",
         "start_date": "2022-06-01",
         "end_date": "2026-05-31",
-        "project_url": "mailto:research@pediatricpocus.org"
+        "project_url": "mailto:research@pediatricpocus.orgs"
       }
     ]
   },
   "board": {
     "boardMembers": [
       {
-        "name": "Dr. John Smith",
-        "title": "President",
-        "institution": "Children's Hospital Boston",
-        "specialty": "Pediatric Emergency Medicine",
-        "bio": "Board-certified pediatric emergency medicine physician with expertise in POCUS education and research.",
+        "name": "Dr. John Smiths",
+        "title": "Presidents",
+        "institution": "sChildren's Hospital Boston",
+        "specialty": "Pediatric Emergency Medicines",
+        "bio": "Board-certified pediatric emergency medicine physician with expertise in POCUS education and research.s",
         "image_url": "https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg",
-        "email": "president@pediatricpocus.org",
-        "linkedin_url": "https://linkedin.com/in/example"
+        "email": "president@pediatricpocus.orgs",
+        "linkedin_url": "https://linkedin.com/in/examples"
       },
       {
         "name": "Dr. Sarah Johnson",
@@ -162,15 +162,15 @@ window.SITE_DATA = {
   "globalHealth": {
     "partners": [
       {
-        "name": "Global Health Initiative Kenya",
-        "country": "Kenya",
-        "location": "Nairobi, Kenya",
-        "region": "East Africa",
-        "description": "Providing POCUS training and equipment to rural health centers, improving diagnostic capabilities for pediatric patients.",
-        "partner_type": "Training Program",
-        "contact_name": "Dr. John Kamau",
-        "contact_email": "kenya@ghinitiative.org",
-        "website_url": "https://example.com/kenya",
+        "name": "Global Health Initiative Kenyas",
+        "country": "Kenyas",
+        "location": "Nairobi, Kenyas",
+        "region": "East Africas",
+        "description": "Providing POCUS training and equipment to rural health centers, improving diagnostic capabilities for pediatric patients.s",
+        "partner_type": "Training Programs",
+        "contact_name": "Dr. John Kamaus",
+        "contact_email": "kenya@ghinitiative.orgs",
+        "website_url": "https://example.com/kenyas",
         "logo_url": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg",
         "start_date": "2021-03-15",
         "is_active": true
@@ -206,24 +206,24 @@ window.SITE_DATA = {
     ],
     "programs": [
       {
-        "title": "Mobile POCUS Training Units - Kenya",
-        "description": "Deploying mobile training units equipped with ultrasound machines to remote areas in Kenya, providing hands-on training for local healthcare providers.",
-        "location": "Kenya",
-        "status": "Active",
-        "partner_organization": "Kenya Ministry of Health",
+        "title": "Mobile POCUS Training Units - Kenyas",
+        "description": "Deploying mobile training units equipped with ultrasound machines to remote areas in Kenya, providing hands-on training for local healthcare providers.s",
+        "location": "Kenyas",
+        "status": "Actives",
+        "partner_organization": "Kenya Ministry of Healths",
         "beneficiaries": 12000,
         "healthcare_workers_trained": 450,
         "funding": "$250,000",
-        "funding_source": "WHO Global Health Initiative",
+        "funding_source": "WHO Global Health Initiatives",
         "start_date": "2022-01-15",
         "end_date": "2025-12-31",
-        "equipment_deployed": "25 units",
+        "equipment_deployed": "25 unitss",
         "training_sessions": 120,
         "objectives": [
-          "Train 500 local healthcare workers in POCUS techniques",
-          "Deploy mobile ultrasound units to 30 rural health centers",
-          "Improve pediatric diagnostic capabilities in underserved regions",
-          "Establish sustainable local training programs"
+          "Train 500 local healthcare workers in POCUS techniquess",
+          "Deploy mobile ultrasound units to 30 rural health centerss",
+          "Improve pediatric diagnostic capabilities in underserved regionss",
+          "Establish sustainable local training programss"
         ]
       },
       {
@@ -354,7 +354,7 @@ window.SITE_DATA = {
             "url": "https://www.youtube.com/watch?v=1egEksqrtMo"
           }
         ],
-        "moreUrl": "https://www.youtube.com/@PediatricPOCUS/videos"
+        "moreUrl": "https://www.youtube.com/@PediatricPOCUS/videoss"
       },
       "expert": {
         "items": [
@@ -371,7 +371,7 @@ window.SITE_DATA = {
             "url": "https://www.youtube.com/watch?v=1egEksqrtMo"
           }
         ],
-        "moreUrl": "https://www.youtube.com/@PediatricPOCUS/playlists"
+        "moreUrl": "https://www.youtube.com/@PediatricPOCUS/playlistss"
       },
       "pepec": {
         "items": [
@@ -388,7 +388,7 @@ window.SITE_DATA = {
             "url": "https://www.youtube.com/watch?v=1egEksqrtMo"
           }
         ],
-        "moreUrl": "https://www.youtube.com/@PediatricPOCUS/playlists"
+        "moreUrl": "https://www.youtube.com/@PediatricPOCUS/playlistss"
       }
     },
     "upcomingEvents": [
@@ -416,10 +416,10 @@ window.SITE_DATA = {
     ],
     "pastEvents": [
       {
-        "title": "Pediatric POCUS Conference 2024",
+        "title": "Pediatric POCUS Conference 2024s",
         "event_date": "2024-06-15",
-        "location": "Chicago, IL",
-        "description": "Our annual conference brought together over 500 practitioners from around the world.",
+        "location": "Chicago, ILs",
+        "description": "Our annual conference brought together over 500 practitioners from around the world.s",
         "image_url": "https://images.pexels.com/photos/1181406/pexels-photo-1181406.jpeg"
       },
       {
@@ -559,5 +559,12 @@ window.SITE_DATA = {
         "path": "/gallery"
       }
     ]
-  }
+  },
+  "homeCarousel": [
+    {
+      "image_url": "https://images.pexels.com/photos/259526/pexels-photo-259526.jpeg",
+      "title": "this is test",
+      "display_order": 1
+    }
+  ]
 };
