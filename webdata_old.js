@@ -1,14 +1,14 @@
 // Pediatric POCUS Society Website Data
-// Last Updated: 2025-12-21
+// Last Updated: 2025-12-19
 // Version: 1.0.0
 
 window.SITE_DATA = {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-21",
+  "lastUpdated": "2025-12-19",
   "hero": {
-    "title": "P2 Network",
-    "subtitle": "Advancing Point-of-Care Ultrasound in Pediatric Medicine",
-    "description": "Leading the way in pediatric emergency ultrasound education, research, and global health initiatives",
+    "title": "P2 Networ",
+    "subtitle": "Advancing Point-of-Care Ultrasound in Pediatric Medicines",
+    "description": "Leading the way in pediatric emergency ultrasound education, research, and global health initiatives.s",
     "heroImageUrl": "https://images.pexels.com/photos/259526/pexels-photo-259526.jpeg"
   },
   "upcomingEvents": [
@@ -58,12 +58,12 @@ window.SITE_DATA = {
     ],
     "recruitingStudies": [
       {
-        "title": "Pediatric Lung Ultrasound in Pneumonia",
-        "recruitment_status": "recruiting",
-        "principal_investigator": "Dr. Michael Chen",
-        "institution": "Stanford Children's Hospital",
-        "description": "Evaluating the diagnostic performance of lung ultrasound compared to chest radiography in pediatric pneumonia cases",
-        "eligibility_criteria": "Children aged 1 month to 18 years presenting with suspected pneumonia",
+        "title": "Pediatric Lung Ultrasound in Pneumonias",
+        "recruitment_status": "recruitings",
+        "principal_investigator": "Dr. Michael Chens",
+        "institution": "Stanford Children's Hospitals",
+        "description": "Evaluating the diagnostic performance of lung ultrasound compared to chest radiography in pediatric pneumonia cases.s",
+        "eligibility_criteria": "Children aged 1 month to 18 years presenting with suspected pneumonias",
         "study_url": "https://example.com/lung-studys",
         "contact_email": "lung.study@example.coms"
       },
@@ -80,11 +80,11 @@ window.SITE_DATA = {
     ],
     "projects": [
       {
-        "title": "National Pediatric POCUS Registry",
-        "status": "Enrolling ",
+        "title": "National Pediatric POCUS Registrys",
+        "status": "Actives",
         "principal_investigator": "Dr. Robert Wilsons",
-        "current_phase": "Data Collection",
-        "description": "Creating a comprehensive national registry to track POCUS utilization, outcomes, and best practices across pediatric emergency departments",
+        "current_phase": "Data Collections",
+        "description": "Creating a comprehensive national registry to track POCUS utilization, outcomes, and best practices across pediatric emergency departments.s",
         "start_date": "2022-06-01",
         "end_date": "2026-05-31",
         "project_url": "mailto:research@pediatricpocus.orgs"
@@ -152,7 +152,7 @@ window.SITE_DATA = {
         "image_url": "https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg"
       },
       {
-        "name": "Dr. Lisa Brown",
+        "name": "Dr. Lisa Martinez",
         "institution": "Boston Children's Hospital",
         "specialty": "Pediatric Radiology",
         "image_url": "https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg"
@@ -206,8 +206,8 @@ window.SITE_DATA = {
     ],
     "programs": [
       {
-        "title": "Mobile POCUS Training Units - Kenya",
-        "description": "Deploying mobile training units equipped with ultrasound machines to remote areas in Kenya, providing hands-on training for local healthcare providers",
+        "title": "Mobile POCUS Training Units - Kenyas",
+        "description": "Deploying mobile training units equipped with ultrasound machines to remote areas in Kenya, providing hands-on training for local healthcare providers.s",
         "location": "Kenyas",
         "status": "Actives",
         "partner_organization": "Kenya Ministry of Healths",
@@ -220,10 +220,10 @@ window.SITE_DATA = {
         "equipment_deployed": "25 unitss",
         "training_sessions": 120,
         "objectives": [
-          "Train 500 local healthcare workers in POCUS techniques",
-          "Deploy mobile ultrasound units to 30 rural health centers",
-          "Improve pediatric diagnostic capabilities in underserved regions",
-          "Establish sustainable local training program"
+          "Train 500 local healthcare workers in POCUS techniquess",
+          "Deploy mobile ultrasound units to 30 rural health centerss",
+          "Improve pediatric diagnostic capabilities in underserved regionss",
+          "Establish sustainable local training programss"
         ]
       },
       {
@@ -416,7 +416,7 @@ window.SITE_DATA = {
     ],
     "pastEvents": [
       {
-        "title": "Pediatric POCUS Conference 2024",
+        "title": "Pediatric POCUS Conference 2024s",
         "event_date": "2024-06-15",
         "location": "Chicago, ILs",
         "description": "Our annual conference brought together over 500 practitioners from around the world.s",
@@ -563,7 +563,7 @@ window.SITE_DATA = {
   "homeCarousel": [
     {
       "image_url": "https://images.pexels.com/photos/259526/pexels-photo-259526.jpeg",
-      "title": "P2 Annual Conference",
+      "title": "this is test",
       "display_order": 1
     }
   ]
