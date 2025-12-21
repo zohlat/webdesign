@@ -6,7 +6,7 @@ window.SITE_DATA = {
   "version": "1.0.0",
   "lastUpdated": "2025-12-19",
   "hero": {
-    "title": "P2 Networkss",
+    "title": "P2 Networ",
     "subtitle": "Advancing Point-of-Care Ultrasound in Pediatric Medicines",
     "description": "Leading the way in pediatric emergency ultrasound education, research, and global health initiatives.s",
     "heroImageUrl": "https://images.pexels.com/photos/259526/pexels-photo-259526.jpeg"
