@@ -104,7 +104,7 @@ window.SITE_DATA = {
         "linkedin_url": "https://linkedin.com/in/examples"
       },
       {
-        "name": "Dr. Sarah Johnson",
+        "name": "Dr. Sarahs Johnson",
         "title": "Vice President",
         "institution": "Stanford Children's Hospital",
         "specialty": "Pediatric Cardiac Ultrasound",
