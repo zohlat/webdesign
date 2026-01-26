@@ -39,7 +39,7 @@ window.SITE_DATA = {
     "currentStudies": [
       {
         "title": "Multi-Center Pediatric Cardiac POCUS Studys",
-        "status": "Actives",
+        "status": "Active",
         "principal_investigator": "Dr. Sarah Johnsons",
         "institution": "Children's Hospital Bostons",
         "study_type": "Prospective Observationals",
