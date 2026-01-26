@@ -1,10 +1,10 @@
 // Pediatric POCUS Society Website Data
-// Last Updated: 2026-01-25
+// Last Updated: 2025-12-21
 // Version: 1.0.0
 
 window.SITE_DATA = {
   "version": "1.0.0",
-  "lastUpdated": "2026-01-25",
+  "lastUpdated": "2025-12-21",
   "hero": {
     "title": "P2 Network",
     "subtitle": "Advancing Point-of-Care Ultrasound in Pediatric Medicine",
@@ -43,7 +43,7 @@ window.SITE_DATA = {
         "principal_investigator": "Dr. Sarah Johnsons",
         "institution": "Children's Hospital Bostons",
         "study_type": "Prospective Observationals",
-        "description": "A comprehensive multi-center study evaluating the accuracy and clinical impact of point-of-care cardiac ultrasound in pediatric emergency settings",
+        "description": "A comprehensive multi-center study evaluating the accuracy and clinical impact of point-of-care cardiac ultrasound in pediatric emergency settings.s",
         "objectives": [
           "Determine diagnostic accuracy of POCUS for cardiac pathologys",
           "Assess impact on clinical decision-makings",
@@ -412,35 +412,6 @@ window.SITE_DATA = {
         "location": "Virtual Event",
         "description": "Virtual summit dedicated to innovative teaching methods and curriculum development in pediatric POCUS.",
         "registration_url": "https://example.com/register"
-      },
-      {
-        "0": {
-          "title": "Annual Pediatric POCUS Conference 2025",
-          "event_date": "2025-06-15",
-          "location": "Boston, MA",
-          "description": "Join us for our flagship annual conference featuring hands-on workshops, expert panels, and networking opportunities.",
-          "registration_url": "https://example.com/register"
-        },
-        "1": {
-          "title": "Advanced Cardiac POCUS Workshop",
-          "event_date": "2025-08-20",
-          "location": "San Francisco, CA",
-          "description": "Intensive two-day workshop focused on advanced cardiac ultrasound techniques in pediatric emergency medicine.",
-          "registration_url": "https://example.com/register"
-        },
-        "2": {
-          "title": "POCUS Education Summit",
-          "event_date": "2025-10-10",
-          "location": "Virtual Event",
-          "description": "Virtual summit dedicated to innovative teaching methods and curriculum development in pediatric POCUS.",
-          "registration_url": "https://example.com/register"
-        },
-        "title": "Test event",
-        "event_date": "2026-01-30",
-        "location": "Boston",
-        "description": "This is a nice trip to boston",
-        "registration_url": "https://images.pexels.com/photos/259526/pexels-photo-259526.jpeg",
-        "image_url": "https://images.pexels.com/photos/259526/pexels-photo-259526.jpeg"
       }
     ],
     "pastEvents": [
@@ -593,8 +564,7 @@ window.SITE_DATA = {
     {
       "image_url": "https://images.pexels.com/photos/259526/pexels-photo-259526.jpeg",
       "title": "P2 Annual Conference",
-      "display_order": 1,
-      "link_url": "https://images.pexels.com/photos/259526/pexels-photo-259526.jpeg"
+      "display_order": 1
     }
   ]
 };

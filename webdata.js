@@ -1,15 +1,15 @@
 // Pediatric POCUS Society Website Data
-// Last Updated: 2025-12-21
+// Last Updated: 2026-01-26
 // Version: 1.0.0
 
 window.SITE_DATA = {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-21",
+  "lastUpdated": "2026-01-26",
   "hero": {
     "title": "P2 Network",
     "subtitle": "Advancing Point-of-Care Ultrasound in Pediatric Medicine",
-    "description": "Leading the way in pediatric emergency ultrasound education, research, and global health initiatives",
-    "heroImageUrl": "https://images.pexels.com/photos/259526/pexels-photo-259526.jpeg"
+    "description": "Leading the way in pediatric emergency ultrasound education, research, and global health initiative",
+    "heroImageUrl": "https://lightblue-finch-499345.hostingersite.com/p2people.jpg"
   },
   "upcomingEvents": [
     {
@@ -43,7 +43,7 @@ window.SITE_DATA = {
         "principal_investigator": "Dr. Sarah Johnsons",
         "institution": "Children's Hospital Bostons",
         "study_type": "Prospective Observationals",
-        "description": "A comprehensive multi-center study evaluating the accuracy and clinical impact of point-of-care cardiac ultrasound in pediatric emergency settings.s",
+        "description": "A comprehensive multi-center study evaluating the accuracy and clinical impact of point-of-care cardiac ultrasound in pediatric emergency settings",
         "objectives": [
           "Determine diagnostic accuracy of POCUS for cardiac pathologys",
           "Assess impact on clinical decision-makings",
@@ -225,48 +225,6 @@ window.SITE_DATA = {
           "Improve pediatric diagnostic capabilities in underserved regions",
           "Establish sustainable local training program"
         ]
-      },
-      {
-        "title": "Telemedicine POCUS Consultation Network",
-        "description": "Real-time remote consultation service connecting local providers with POCUS experts for difficult cases and ongoing education across multiple countries.",
-        "location": "Global",
-        "status": "Active",
-        "partner_organization": "International Medical Alliance",
-        "beneficiaries": 50000,
-        "healthcare_workers_trained": 850,
-        "funding": "$500,000",
-        "funding_source": "Private Foundation Grant",
-        "start_date": "2021-06-01",
-        "end_date": "2026-05-31",
-        "equipment_deployed": "150 telemedicine stations",
-        "training_sessions": 1200,
-        "objectives": [
-          "Provide real-time consultation services in 28 countries",
-          "Review and provide feedback on 5000+ clinical cases",
-          "Develop telemedicine infrastructure for remote areas",
-          "Create sustainable partnerships with local institutions"
-        ]
-      },
-      {
-        "title": "Latin America POCUS Education Initiative",
-        "description": "Comprehensive training program bringing advanced POCUS education to pediatric hospitals across Latin America.",
-        "location": "Latin America",
-        "status": "Active",
-        "partner_organization": "Latin America Pediatric Association",
-        "beneficiaries": 25000,
-        "healthcare_workers_trained": 600,
-        "funding": "$350,000",
-        "funding_source": "Pan American Health Organization",
-        "start_date": "2023-03-01",
-        "end_date": "2026-02-28",
-        "equipment_deployed": "40 ultrasound systems",
-        "training_sessions": 200,
-        "objectives": [
-          "Establish POCUS training centers in 15 major hospitals",
-          "Train pediatric emergency medicine physicians",
-          "Develop Spanish and Portuguese educational materials",
-          "Create regional networks for knowledge sharing"
-        ]
       }
     ]
   },
@@ -335,7 +293,8 @@ window.SITE_DATA = {
         "category": "Education",
         "event_date": "2024-07-12"
       }
-    ]
+    ],
+    "sections": []
   },
   "education": {
     "videos": {
@@ -400,18 +359,33 @@ window.SITE_DATA = {
         "registration_url": "https://example.com/register"
       },
       {
-        "title": "Advanced Cardiac POCUS Workshop",
-        "event_date": "2025-08-20",
-        "location": "San Francisco, CA",
-        "description": "Intensive two-day workshop focused on advanced cardiac ultrasound techniques in pediatric emergency medicine.",
-        "registration_url": "https://example.com/register"
-      },
-      {
-        "title": "POCUS Education Summit",
-        "event_date": "2025-10-10",
-        "location": "Virtual Event",
-        "description": "Virtual summit dedicated to innovative teaching methods and curriculum development in pediatric POCUS.",
-        "registration_url": "https://example.com/register"
+        "0": {
+          "title": "Annual Pediatric POCUS Conference 2025",
+          "event_date": "2025-06-15",
+          "location": "Boston, MA",
+          "description": "Join us for our flagship annual conference featuring hands-on workshops, expert panels, and networking opportunities.",
+          "registration_url": "https://example.com/register"
+        },
+        "1": {
+          "title": "Advanced Cardiac POCUS Workshop",
+          "event_date": "2025-08-20",
+          "location": "San Francisco, CA",
+          "description": "Intensive two-day workshop focused on advanced cardiac ultrasound techniques in pediatric emergency medicine.",
+          "registration_url": "https://example.com/register"
+        },
+        "2": {
+          "title": "POCUS Education Summit",
+          "event_date": "2025-10-10",
+          "location": "Virtual Event",
+          "description": "Virtual summit dedicated to innovative teaching methods and curriculum development in pediatric POCUS.",
+          "registration_url": "https://example.com/register"
+        },
+        "title": "Test event",
+        "event_date": "2026-01-30",
+        "location": "Boston",
+        "description": "This is a nice trip to boston",
+        "registration_url": "https://images.pexels.com/photos/259526/pexels-photo-259526.jpeg",
+        "image_url": "https://images.pexels.com/photos/259526/pexels-photo-259526.jpeg"
       }
     ],
     "pastEvents": [
@@ -521,13 +495,6 @@ window.SITE_DATA = {
         "publication_year": 2024,
         "journal": "Journal of Pediatric Ultrasound",
         "pdf_url": "https://example.com/papers/cardiac-ultrasound.pdf"
-      },
-      {
-        "title": "POCUS Integration in Medical Education",
-        "authors": "Taylor S, Anderson P, Wilson T",
-        "publication_year": 2023,
-        "journal": "Medical Education Review",
-        "pdf_url": "https://example.com/papers/medical-education.pdf"
       }
     ],
     "driveUrl": "https://drive.google.com/drive/folders/example"
@@ -564,7 +531,20 @@ window.SITE_DATA = {
     {
       "image_url": "https://images.pexels.com/photos/259526/pexels-photo-259526.jpeg",
       "title": "P2 Annual Conference",
-      "display_order": 1
+      "display_order": 1,
+      "link_url": "https://images.pexels.com/photos/259526/pexels-photo-259526.jpeg"
+    },
+    {
+      "0": {
+        "image_url": "https://images.pexels.com/photos/259526/pexels-photo-259526.jpeg",
+        "title": "P2 Annual Conference",
+        "display_order": 1,
+        "link_url": "https://images.pexels.com/photos/259526/pexels-photo-259526.jpeg"
+      },
+      "image_url": "https://thumbs.dreamstime.com/b/golden-bird-expansive-wings-takes-flight-against-vibrant-blue-sky-scene-evokes-sense-freedom-wonder-sample-jpeg-364733156.jpg",
+      "link_url": "https://thumbs.dreamstime.com/b/golden-bird-expansive-wings-takes-flight-against-vibrant-blue-sky-scene-evokes-sense-freedom-wonder-sample-jpeg-364733156.jpg",
+      "title": "test image",
+      "display_order": 2
     }
   ]
 };
