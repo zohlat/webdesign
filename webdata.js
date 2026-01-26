@@ -229,71 +229,7 @@ window.SITE_DATA = {
     ]
   },
   "gallery": {
-    "images": [
-      {
-        "title": "Annual Conference 2024 - Opening Ceremony",
-        "description": "Keynote presentation at our flagship annual conference",
-        "image_url": "https://images.pexels.com/photos/1181406/pexels-photo-1181406.jpeg",
-        "category": "Conference",
-        "event_date": "2024-06-15"
-      },
-      {
-        "title": "Hands-on Workshop Session",
-        "description": "Participants practicing cardiac POCUS techniques",
-        "image_url": "https://images.pexels.com/photos/1181346/pexels-photo-1181346.jpeg",
-        "category": "Workshop",
-        "event_date": "2024-06-16"
-      },
-      {
-        "title": "Fellowship Training",
-        "description": "Fellows during intensive scanning practice session",
-        "image_url": "https://images.pexels.com/photos/1181519/pexels-photo-1181519.jpeg",
-        "category": "Education",
-        "event_date": "2024-03-20"
-      },
-      {
-        "title": "Research Collaboration Meeting",
-        "description": "Multi-center research team planning session",
-        "image_url": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg",
-        "category": "Research",
-        "event_date": "2024-05-10"
-      },
-      {
-        "title": "International Partnership Program",
-        "description": "Training healthcare providers in rural Kenya",
-        "image_url": "https://images.pexels.com/photos/3184325/pexels-photo-3184325.jpeg",
-        "category": "Global Health",
-        "event_date": "2024-02-25"
-      },
-      {
-        "title": "Pediatric Emergency Department",
-        "description": "POCUS being used in real-time clinical care",
-        "image_url": "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg",
-        "category": "Clinical",
-        "event_date": "2024-04-08"
-      },
-      {
-        "title": "Expert Panel Discussion",
-        "description": "Leaders discussing future of pediatric POCUS",
-        "image_url": "https://images.pexels.com/photos/3184639/pexels-photo-3184639.jpeg",
-        "category": "Conference",
-        "event_date": "2024-06-17"
-      },
-      {
-        "title": "Award Ceremony",
-        "description": "Recognizing excellence in POCUS research and education",
-        "image_url": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg",
-        "category": "Awards",
-        "event_date": "2024-06-18"
-      },
-      {
-        "title": "Simulation Lab Training",
-        "description": "Advanced simulation scenarios for POCUS education",
-        "image_url": "https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg",
-        "category": "Education",
-        "event_date": "2024-07-12"
-      }
-    ],
+   
     "sections": []
   },
   "education": {
