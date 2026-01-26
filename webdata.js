@@ -9,7 +9,7 @@ window.SITE_DATA = {
     "title": "P2 Network",
     "subtitle": "Advancing Point-of-Care Ultrasound in Pediatric Medicine",
     "description": "Leading the way in pediatric emergency ultrasound education, research, and global health initiative",
-    "heroImageUrl": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8xMV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2Nyb3dkX3Blb3BsZV9pc184Yjg2MDYyZi1kOWI5LTRhNmMtYTAwYS1iZmQ1OGIxN2RhZWYucG5n.png"
+    "heroImageUrl": "https://thumbs.dreamstime.com/b/golden-bird-expansive-wings-takes-flight-against-vibrant-blue-sky-scene-evokes-sense-freedom-wonder-sample-jpeg-364733156.jpg"
   },
   "upcomingEvents": [
     {
