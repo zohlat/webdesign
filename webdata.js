@@ -40,7 +40,7 @@ window.SITE_DATA = {
       {
         "title": "Multi-Center Pediatric Cardiac POCUS Studys",
         "status": "Active",
-        "principal_investigator": "Dr. Sarah Johnsons",
+        "principal_investigator": "Dr. Sarah Johns",
         "institution": "Children's Hospital Bostons",
         "study_type": "Prospective Observationals",
         "description": "A comprehensive multi-center study evaluating the accuracy and clinical impact of point-of-care cardiac ultrasound in pediatric emergency settings",
